@@ -22,15 +22,23 @@ This repo is based on the amazing [repo from amitness](https://github.com/amitne
 - [ ] [Udacity: A/B Testing](https://www.udacity.com/course/ab-testing--ud257)
 - [ ] [Udacity: A/B Testing for Business Analysts](https://www.udacity.com/course/ab-testing--ud979)
 - [ ] [Youtube: Hypothesis testing with Applications in Data Science](https://www.youtube.com/watch?v=kx-pcQAPvoc) `0:10:33`
-- [ ] [Article: How Netflix uses A/B tests to make decisions ](https://netflixtechblog.com/) `Netflix`
+- [X] [Article: How Netflix uses A/B tests to make decisions ](https://netflixtechblog.com/) `Netflix`
 	- [X] [Decision Making at Netflix (Part 1)](https://netflixtechblog.com/decision-making-at-netflix-33065fa06481)
 	- [X] [What is an A/B Test? (Part 2)](https://netflixtechblog.com/what-is-an-a-b-test-b08cc1b57962)
-	- [ ] [Interpreting A/B test results: false positives and statistical significance (Part 3)](https://netflixtechblog.com/interpreting-a-b-test-results-false-positives-and-statistical-significance-c1522d0db27a)
-	- [ ] [Interpreting A/B test results: false negatives and power (Part 4)](https://netflixtechblog.com/interpreting-a-b-test-results-false-negatives-and-power-6943995cf3a8)
+	- [X] [Interpreting A/B test results: false positives and statistical significance (Part 3)](https://netflixtechblog.com/interpreting-a-b-test-results-false-positives-and-statistical-significance-c1522d0db27a)
+	- [X] [Interpreting A/B test results: false negatives and power (Part 4)](https://netflixtechblog.com/interpreting-a-b-test-results-false-negatives-and-power-6943995cf3a8)
 - [ ] [A/B Testing and Beyond: Improving the Netflix Streaming Experience with Experimentation and Data Science](https://netflixtechblog.com/a-b-testing-and-beyond-improving-the-netflix-streaming-experience-with-experimentation-and-data-5b0ae9295bdf) `Netflix`
 - [ ] [Quasi Experimentation at Netflix ](https://netflixtechblog.com/quasi-experimentation-at-netflix-566b57d2e362) `Netflix`
 
 ### Be able to use experiment management tool
- - [] [Building an Intelligent Experimentation Platform with Uber Engineering](https://eng.uber.com/experimentation-platform/) `Uber`
- - [] [Under the Hood of Uber’s Experimentation Platform](https://eng.uber.com/xp/)
- 
+ - [ ] [Building an Intelligent Experimentation Platform with Uber Engineering](https://eng.uber.com/experimentation-platform/) `Uber`
+ - [ ] [Under the Hood of Uber’s Experimentation Platform](https://eng.uber.com/xp/)
+
+### Be familiar with Recommendation Systems
+ - [ ] [Google: Recommendation Systems](https://developers.google.com/machine-learning/recommendation)
+ - [ ] [Youtube: Learning to Rank: From Theory to Production - Malvina Josephidou & Diego Ceccarelli, Bloomberg](https://www.youtube.com/watch?v=eMuepJpjUjI&ab_channel=Lucidworks)
+ - [ ] [Youtube: Learning "Learning to Rank" - Sophie Watson [DevCon 2019]](https://www.youtube.com/watch?v=7teudGhdnqo&ab_channel=DevConf)
+ - [ ] [Youtube: Learning to rank search results - Byron Voorbach & Jettro Coenradie [DevCon 2018]](https://www.youtube.com/watch?v=TG7aNLgzIcM&ab_channel=Luminis)
+ - [ ] [Udemy: Building Recommender Systems with Machine Learning and AI](https://www.udemy.com/course/building-recommender-systems-with-machine-learning-and-ai/)
+ - [ ] [Udemy: Recommender Systems and Deep Learning in Python](https://www.udemy.com/course/recommender-systems/)
+ - [ ] [Coursera: Recommender Systems](https://pt.coursera.org/specializations/recommender-systems) 
