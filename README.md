@@ -29,16 +29,12 @@ This repo is based on the amazing [repo from amitness](https://github.com/amitne
 	- [X] [Interpreting A/B test results: false negatives and power (Part 4)](https://netflixtechblog.com/interpreting-a-b-test-results-false-negatives-and-power-6943995cf3a8)
 - [ ] [A/B Testing and Beyond: Improving the Netflix Streaming Experience with Experimentation and Data Science](https://netflixtechblog.com/a-b-testing-and-beyond-improving-the-netflix-streaming-experience-with-experimentation-and-data-5b0ae9295bdf) `Netflix`
 - [ ] [Quasi Experimentation at Netflix ](https://netflixtechblog.com/quasi-experimentation-at-netflix-566b57d2e362) `Netflix`
+- [ ] [Universal Holdout Groups at Disney Streaming](https://medium.com/disney-streaming/universal-holdout-groups-at-disney-streaming-2043360def4f) `Disney`
 
 ### Be able to use experiment management tool
  - [ ] [Building an Intelligent Experimentation Platform with Uber Engineering](https://eng.uber.com/experimentation-platform/) `Uber`
  - [ ] [Under the Hood of Uber’s Experimentation Platform](https://eng.uber.com/xp/)
+ - [x] [DARWIN: Data Science and Artificial Intelligence Workbench at LinkedIn](https://engineering.linkedin.com/blog/2022/darwin--data-science-and-artificial-intelligence-workbench-at-li) `LinkedIn`
 
 ### Be familiar with Recommendation Systems
- - [ ] [Google: Recommendation Systems](https://developers.google.com/machine-learning/recommendation)
- - [ ] [Youtube: Learning to Rank: From Theory to Production - Malvina Josephidou & Diego Ceccarelli, Bloomberg](https://www.youtube.com/watch?v=eMuepJpjUjI&ab_channel=Lucidworks)
- - [ ] [Youtube: Learning "Learning to Rank" - Sophie Watson [DevCon 2019]](https://www.youtube.com/watch?v=7teudGhdnqo&ab_channel=DevConf)
- - [ ] [Youtube: Learning to rank search results - Byron Voorbach & Jettro Coenradie [DevCon 2018]](https://www.youtube.com/watch?v=TG7aNLgzIcM&ab_channel=Luminis)
- - [ ] [Udemy: Building Recommender Systems with Machine Learning and AI](https://www.udemy.com/course/building-recommender-systems-with-machine-learning-and-ai/)
- - [ ] [Udemy: Recommender Systems and Deep Learning in Python](https://www.udemy.com/course/recommender-systems/)
- - [ ] [Coursera: Recommender Systems](https://pt.coursera.org/specializations/recommender-systems) 
+ - My RecSys studies can be found on [this repo](https://github.com/jcabralc/search-ranking-recsys-studies)
