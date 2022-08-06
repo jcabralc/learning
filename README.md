@@ -191,4 +191,4 @@ This repo is based on the amazing [repo from amitness](https://github.com/amitne
 
 
 ### Be able to implement computer vision models
- - [X] [Youtube: Be able to perform A/B testing](https://www.youtube.com/watch?v=dHp5I0m9_zA) `0:47:40`
+ - [X] [Youtube: Deep Learning for Video Summarization](https://www.youtube.com/watch?v=dHp5I0m9_zA) `0:47:40`
