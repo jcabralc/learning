@@ -7,6 +7,16 @@
 
 This repo is based on the amazing [repo from amitness](https://github.com/amitness/learning), go check!
 
+### Quick Access:
+ - [Learning Philosophy](#learning-philosophy)
+ - [Be able to perform A/B testing](#be-able-to-perform-ab-testing)
+ - [Be able to use experiment management tool](#be-able-to-use-experiment-management-tool)
+ - [Be familiar with Recommendation Systems](#be-familiar-with-recommendation-systems)
+ - [Be able to model problems mathematically](#be-able-to-model-problems-mathematically)
+ - [Be familiar with ML System/MLOps](#be-familiar-with-ml-systemmlops)
+ - [Be able to implement computer vision models](#be-able-to-implement-computer-vision-models)
+
+
 **Learning Philosophy**: 
 - [Data Scientists Should Be More End-to-End](https://eugeneyan.com/writing/end-to-end-data-science/)
 - [Just in Time Learning](https://www.developgoodhabits.com/just-in-time-learning/)
@@ -176,5 +186,9 @@ This repo is based on the amazing [repo from amitness](https://github.com/amitne
 - [ ] [Udacity: Intro to Inferential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201)
 - [X] [StatsCast: What is a t-test?](https://www.youtube.com/watch?v=0Pd3dc1GcHc&t=303s) `0:09:56`
 
-Be familiar with ML System/MLOps
+### Be familiar with ML System/MLOps
 - [ ] [The Magic of Merlin: Shopify's New Machine Learning Platform](https://shopify.engineering/merlin-shopify-machine-learning-platform) `Shopify` `2022`
+
+
+### Be able to implement computer vision models
+ - [X] [Youtube: Be able to perform A/B testing](https://www.youtube.com/watch?v=dHp5I0m9_zA) `0:47:40`
