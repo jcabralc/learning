@@ -24,6 +24,9 @@ This repo is based on the amazing [repo from amitness](https://github.com/amitne
 - [T-shaped skills](https://en.wikipedia.org/wiki/T-shaped_skills)
 - [The Power of Tiny Gains](https://jamesclear.com/continuous-improvement)
 
+### Be able to frame an ML problem
+- [ ] [Coursera: Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects)
+
 ### Be able to perform A/B testing
 - [ ] [Article: Multi-Armed Bandit (MAB) – A/B Testing Sans Regret](https://vwo.com/blog/multi-armed-bandit-algorithm/)
 - [ ] [Article: When to Run Bandit Tests Instead of A/B/n Tests](https://cxl.com/blog/bandit-tests/)
@@ -188,6 +191,7 @@ This repo is based on the amazing [repo from amitness](https://github.com/amitne
 
 ### Be familiar with ML System/MLOps
 - [ ] [The Magic of Merlin: Shopify's New Machine Learning Platform](https://shopify.engineering/merlin-shopify-machine-learning-platform) `Shopify` `2022`
+- [ ] [Coursera: Introduction to Machine Learning in Production](https://www.coursera.org/learn/introduction-to-machine-learning-in-production) 
 
 
 ### Be able to implement computer vision models
