@@ -194,10 +194,14 @@ This repo is based on the amazing [repo from amitness](https://github.com/amitne
 - [ ] [Coursera: Introduction to Machine Learning in Production](https://www.coursera.org/learn/introduction-to-machine-learning-in-production) 
 
 
-### Computer Vision
- - [X] [Youtube: Deep Learning for Video Summarization](https://www.youtube.com/watch?v=dHp5I0m9_zA) `0:47:40`
- #### IQA
- - [X] [Paper: Browsing and Sorting Digital Pictures Using Automatic Image Classification and Quality Analysis](https://link.springer.com/content/pdf/10.1007/978-3-540-73110-8_97.pdf)
- - [X] [Paper: Image Quality Assessment through FSIM, SSIM, MSE and PSNR—A Comparative Study](https://www.scirp.org/pdf/JCC_2019030117485323.pdf)
- - [X] [Article: Image Quality Assessment : BRISQUE](https://learnopencv.com/image-quality-assessment-brisque/)
- - [X] [Paper: Multimedia Features for Click Prediction of New Ads in Display Advertising](https://maths-people.anu.edu.au/~johnm/courses/mathdm/talks/dimitri-clickadvert.pdf)
+<details><summary><h3>Computer Vision</h3></summary>
+  
+  - [X] [Youtube: Deep Learning for Video Summarization](https://www.youtube.com/watch?v=dHp5I0m9_zA) `0:47:40`
+	  <details><summary>IQA</summary>
+
+	   - [X] [Paper: Browsing and Sorting Digital Pictures Using Automatic Image Classification and Quality Analysis](https://link.springer.com/content/pdf/10.1007/978-3-540-73110-8_97.pdf)
+	   - [X] [Paper: Image Quality Assessment through FSIM, SSIM, MSE and PSNR—A Comparative Study](https://www.scirp.org/pdf/JCC_2019030117485323.pdf)
+	   - [X] [Article: Image Quality Assessment : BRISQUE](https://learnopencv.com/image-quality-assessment-brisque/)
+	   - [X] [Paper: Multimedia Features for Click Prediction of New Ads in Display Advertising](https://maths-people.anu.edu.au/~johnm/courses/mathdm/talks/dimitri-clickadvert.pdf)
+	  </details>
+</details>
