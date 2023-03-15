@@ -188,6 +188,7 @@ This repo is based on the amazing [repo from amitness](https://github.com/amitne
 - [ ] [Udacity: Intro to Descriptive Statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827)
 - [ ] [Udacity: Intro to Inferential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201)
 - [X] [StatsCast: What is a t-test?](https://www.youtube.com/watch?v=0Pd3dc1GcHc&t=303s) `0:09:56`
+- [X] [Coursera: Linear Algebra for Machine Learning and Data Science](https://www.coursera.org/learn/machine-learning-linear-algebra)
 
 ### Be familiar with ML System/MLOps
 - [ ] [The Magic of Merlin: Shopify's New Machine Learning Platform](https://shopify.engineering/merlin-shopify-machine-learning-platform) `Shopify` `2022`
